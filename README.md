@@ -5,11 +5,11 @@ This is a simple chat application utilizing Twilios Programmable chat API. The a
 # Technologies Utilized
 
 All of the technologies utilized for the creation of this chat skeleton are the following: 
-REACT - FRONTEND
-EXPRESS - CLIENT SERVER
-NODE.JS
-JAVASCRIPT(ES6)
-JQUERY
+REACT - FRONTEND;
+EXPRESS - CLIENT SERVER;
+NODE.JS;
+JAVASCRIPT(ES6);
+JQUERY;
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
