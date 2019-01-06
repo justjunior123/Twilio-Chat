@@ -9,7 +9,7 @@ REACT - FRONTEND;
 EXPRESS - CLIENT SERVER;
 NODE.JS;
 JAVASCRIPT(ES6);
-JQUERY.
+JQUERY..
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
